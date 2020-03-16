@@ -108,3 +108,8 @@ goal_image_base: https://open-sdg.github.io/translations-un-sdg/assets/img/goals
 plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
+  
+  
+custom_js:
+  - /assets/js/custom.js
+
